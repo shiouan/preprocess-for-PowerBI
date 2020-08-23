@@ -1,5 +1,11 @@
 
-- 下載 Anaconda [64-Bit Graphical Installer (466 MB)]:(https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows-x86_64.exe) -
+- 下載 Power Bi Destop: [下載 Power BI 工具和應用程式](https://powerbi.microsoft.com/zh-tw/downloads/)
+
+# 在 Power BI 中使用 python 
+
+- 下載 Anaconda [64-Bit Graphical Installer (466 MB)](https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows-x86_64.exe)
+
+- (選擇)下載 Pycharm [Download PyCharm](https://www.jetbrains.com/pycharm/download/#section=mac)
 
 - 查看套件安裝路徑: `pip show {套件名稱}`
 
