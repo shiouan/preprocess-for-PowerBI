@@ -1,3 +1,6 @@
+
+- 下載 Anaconda [64-Bit Graphical Installer (466 MB)]:(https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows-x86_64.exe) -
+
 - 查看套件安裝路徑: `pip show {套件名稱}`
 
 
