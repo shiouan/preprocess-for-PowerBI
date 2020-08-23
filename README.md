@@ -17,3 +17,7 @@ Required-by: yfinance, pandas-datareader
 Note: you may need to restart the kernel to use updated packages.
 
 ```
+
+# Reference
+
+- [在 Power BI Desktop 中執行 Python 指令碼](https://docs.microsoft.com/zh-tw/power-bi/connect-data/desktop-python-scripts)
