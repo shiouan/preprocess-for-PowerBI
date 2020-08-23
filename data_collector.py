@@ -18,3 +18,7 @@ def get_stock_dataset(stock_id):
     end = datetime.datetime(2020, 7, 1)
     df = web.get_data_yahoo(['2884.TW'],start, end)
     return df
+
+df = get_stock_dataset('2884')
+df.reset_index(inplace=True)
+print(df)
